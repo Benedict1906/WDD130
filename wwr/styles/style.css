@@ -17,12 +17,12 @@ nav a {
 }
 nav a:hover {
   background-color: white;
-  color: #1000c1;
+  color: #000000;
 }
 
 .book,
 .join {
-  background-color: #1000c1;
+  background-color: #000000;
   color: white;
   text-decoration: none;
   font-family: Roboto, Helvetica, sans-serif;
@@ -35,7 +35,7 @@ nav a:hover {
 .book:hover,
 .join:hover {
   background-color: white;
-  color: #1000c1;
+  color: #000000;
 }
 
 #hero-msg h1,
@@ -57,7 +57,7 @@ main section img {
 
 #background {
   height: 725px;
-  background-color: #1000c1;
+  background-color: #000000;
 }
 
 header {
@@ -106,7 +106,7 @@ h2 {
 
 footer {
   background-color: #2f97c1;
-  color: #1000c1;
+  color: #000000;
   padding: 25px 50px;
   margin-top: 200px;
 }
@@ -117,7 +117,7 @@ footer .social img {
 
 footer a {
   text-decoration: none;
-  color: #1000c1;
+  color: #000000;
 }
 
 footer p {
